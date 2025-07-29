@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif; 
+  line-height: 1.6;
+  color: #333; 
+  background-color: #f7fafc; 
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family:  sans-serif;
+  color: #2d3748; 
+  text-align: center;
+  
+}
+button{
+    background-color: aqua;
+}
